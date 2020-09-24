@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3-Login_lower_case_id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf5a5159-9c41-44d0-a803-6953b649d4a3</testCaseGuid>
+</TestCaseEntity>
