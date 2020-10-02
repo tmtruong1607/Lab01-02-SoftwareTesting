@@ -40,5 +40,23 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC5-Login_add_a_space_to_password</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c9b69e15-0130-46c2-8bd5-8bff4c8f8563</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>162783a3-c74a-413e-8299-0375c5ebf599</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>293747d9-7eb9-4cdb-8a62-fb1abd0c21d3</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
